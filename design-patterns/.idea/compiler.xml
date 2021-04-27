@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lld" />
+        <module name="phone" />
+        <module name="builders-patterns" />
+        <module name="singleton-pattern" />
+        <module name="abstact-factory-2" />
+        <module name="dsa" />
+        <module name="observer-design" />
+        <module name="abstract-factory-pattern" />
+        <module name="prototype-pattern" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="adapter" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
